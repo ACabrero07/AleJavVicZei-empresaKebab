@@ -5,4 +5,4 @@
 | Robótica colaborativa | | | | |
 | Realidad virtual y aumentada | | | | |
 | Gemelos digitales | | | | |
-| Blockchain | | | | |
+| Blockchain | FINHAVA | Permite guardar la información de forma compartida | Principalmente IT | Puede resultar caro. |
