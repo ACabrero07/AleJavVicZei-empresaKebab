@@ -8,30 +8,36 @@
 
 Un gemelo digital es una réplica virtual de un objeto, proceso o sistema físico. Permite simular y analizar su funcionamiento para tomar mejores decisiones, reducir errores y ahorrar costes. 
 
+Sí. Cambia el punto 2 por este ejemplo, que sí es un gemelo digital real en hostelería:
+
 ## 2. Ejemplo real en hostelería / turismo
 
-**Empresa o caso:** Anantara The Palm Dubai Resort  
-**Enlace:** [https://www.anantara.com/en/palm-dubai](https://www.anantara.com/en/palm-dubai)  
-**Qué hace:** Ofrece un recorrido virtual en 360 grados para que los clientes exploren el hotel, sus habitaciones y sus instalaciones antes de reservar. [anantara]
+**Empresa o caso:** TWINHOTEL, proyecto impulsado por el Instituto Tecnológico Hotelero (ITH) junto con otras empresas del sector.
+
+**Enlace:** [https://www.thinktur.org/media/eBook-Gemelos-Digitales-Turismo-Fitur-Thinktur-2025-VF.pdf](https://www.thinktur.org/media/eBook-Gemelos-Digitales-Turismo-Fitur-Thinktur-2025-VF.pdf)
+
+**Qué hace exactamente:** TWINHOTEL crea un gemelo digital del hotel para monitorizar y gestionar en tiempo real recursos como el agua, la energía y los residuos. Utiliza un modelo 3D del edificio conectado a sensores, lo que permite ver el consumo por zonas —habitaciones, piscinas o zonas deportivas—, mejorar la calidad del aire y realizar mantenimiento predictivo. 
 
 ## 3. Mejora que aporta
 
-Los clientes pueden ver cómo es el hotel de forma más realista que con fotos, lo que aumenta su confianza y reduce reservas equivocadas o quejas.
+Permite al hotel conocer en tiempo real dónde consume más agua o energía y actuar antes de que se produzca una avería. Así reduce costes, mejora la sostenibilidad y ofrece un servicio más eficiente al cliente.
 
 ## 4. Nuevo servicio o mercado que abre
 
-Abre el mercado de las visitas virtuales 3D y los gemelos digitales para hoteles, apartamentos turísticos, restaurantes y espacios de eventos.
+Abre el mercado de la **gestión inteligente y sostenible de hoteles**: plataformas de gemelos digitales que optimicen energía, agua, residuos, mantenimiento y experiencia del cliente. 
 
 ## 5. ¿IT, OT o ambos? ¿Por qué?
 
-**Ambos.** Usa IT para la web, el recorrido virtual y los datos; y OT si se conecta con sensores o sistemas del hotel, como iluminación, seguridad o climatización.
+**Ambos.** Usa **IT** para analizar datos, visualizar el modelo 3D y gestionar la plataforma; y **OT** porque se conecta a sensores y sistemas reales del hotel, como el consumo de agua, la energía, la climatización o el mantenimiento.
 
 ## 6. Riesgo o límite
 
-Su principal límite es el alto coste y la complejidad técnica. Además, si está conectado a sistemas reales, puede sufrir ciberataques, por lo que necesita buenas medidas de seguridad. 
+El principal riesgo es la ciberseguridad: al conectar sensores y sistemas operativos del hotel a internet, un ataque podría alterar datos o afectar a instalaciones reales. También supone un coste inicial alto y requiere personal especializado. 
+
+Las fuentes del punto 1 y 6 pueden seguir siendo las mismas. El ejemplo de Anantara puedes eliminarlo o mencionarlo solo como un **recorrido virtual**, no como gemelo digital.
 
 ## Fuentes
 
 - [Plan de Recuperación – Gemelo digital](https://planderecuperacion.gob.es/noticias/que-es-un-gemelo-digital-y-su-impacto-en-la-transformacion-digital-de-espana-prtr) [planderecuperacion.gob](https://planderecuperacion.gob.es/noticias/que-es-un-gemelo-digital-y-su-impacto-en-la-transformacion-digital-de-espana-prtr)
-- [Anantara The Palm Dubai Resort](https://www.anantara.com/en/palm-dubai) [anantara](https://www.anantara.com/en/palm-dubai)
+- https://www.thinktur.org/media/eBook-Gemelos-Digitales-Turismo-Fitur-Thinktur-2025-VF.pdf
 - [INCIBE – Ciberseguridad en gemelos digitales](https://www.incibe.es/incibe-cert/blog/desafios-de-ciberseguridad-en-gemelos-digitales-amenazas-y-salvaguardas)
