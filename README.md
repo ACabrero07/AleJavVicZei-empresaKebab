@@ -88,9 +88,15 @@ responsabilidades entre los integrantes del equipo.
 - [THD](DOCS/THD)
 
 ## 8. Tecnologías utilizadas
+[Documento Explicativo](THD_Utilizadas.md)
 
-Esta sección se actualizará conforme se definan las tecnologías
-que se utilizarán durante el desarrollo del proyecto.
+* [IoT](DOCS\THD\IOT.md)
+* [Web + QR](THD_Utilizadas.md)
+* [5G](DOCS\THD\5G.md)
+* [Nube Saas](THD_Utilizadas.md)
+
+*No aplica el uso de IA paar este negocio*
+
 
 ## 9. Estado del proyecto
 
