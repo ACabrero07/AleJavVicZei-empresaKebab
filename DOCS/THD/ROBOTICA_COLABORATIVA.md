@@ -6,8 +6,7 @@
 
 ## 1. Qué es y qué problema resuelve
 
-La robótica estudia y crea máquinas capaces de realizar tareas físicas de forma autónoma o programada. En hostelería, ayuda a los camareros con tareas repetitivas, como transportar platos, bebidas y vajilla. [lavanguardia](https://www.lavanguardia.com/comer/20200205/473298809950/asi-son-robots-cocinar-servir-hosteleria-comida-domicilio-hip2020-brl.html)
-
+La robótica estudia y crea máquinas capaces de realizar tareas físicas de forma autónoma o programada. En hostelería, ayuda a los camareros con tareas repetitivas, como transportar platos, bebidas y vajilla. 
 ## 2. Ejemplo real en hostelería / turismo
 
 - **Empresa o caso:** Restaurante 7 Portes, Barcelona  
@@ -16,16 +15,15 @@ La robótica estudia y crea máquinas capaces de realizar tareas físicas de for
 
 ## 3. Mejora que aporta
 
-Da novedad y espectáculo al cliente y reduce el esfuerzo físico del personal de sala. [elperiodico](https://www.elperiodico.com/es/comunicacion-empresarial/20240719/robots-incorporan-hosteleria-servicio-empleados-105837260)
+Da novedad y espectáculo al cliente y reduce el esfuerzo físico del personal de sala. 
 
 ## 4. Nuevo servicio o mercado que abre
 
-Abre un mercado de automatización en hostelería: alquiler de robots camareros, mantenimiento, formación del personal e integración con pedidos móviles y TPV. [elnacional](https://www.elnacional.cat/es/economia/robots-camareros-bares-restaurantes-falta-oferta-laboral-genera-nuevas-alternativas_917601_102.html)
+Abre un mercado de automatización en hostelería: alquiler de robots camareros, mantenimiento, formación del personal e integración con pedidos móviles y TPV.ernativas_917601_102.html)
 
 ## 5. ¿IT, OT o ambos? ¿Por qué?
 
-Es **IT + OT**: es OT porque se mueve y transporta objetos en el mundo físico, e IT porque necesita software, sensores, conexión con el TPV y pedidos desde el móvil. [elnacional](https://www.elnacional.cat/es/economia/robots-camareros-bares-restaurantes-falta-oferta-laboral-genera-nuevas-alternativas_917601_102.html)
-
+Es **IT + OT**: es OT porque se mueve y transporta objetos en el mundo físico, e IT porque necesita software, sensores, conexión con el TPV y pedidos desde el móvil.
 ## 6. Riesgo o límite
 
 - Coste elevado. 
