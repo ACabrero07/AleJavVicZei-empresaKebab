@@ -2,7 +2,7 @@
 
 - **Autor/a:** Víctor Puig
 - **Equipo / pyme:** Empresa Kebab
-- **Fecha:** 21/10/2016
+- **Fecha:** 21/10/2026
 
 ## 1. Qué es y qué problema resuelve
 Blockchain es una tecnología que permite guardar información y transacciones en un registro digital compartido entre varios participantes. Los datos se agrupan en bloques enlazados mediante técnicas criptográficas, de modo que modificar registros anteriores resulta muy difícil de detectar.
