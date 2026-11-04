@@ -1,37 +1,13 @@
-# Mapa de datos de la pyme --- AleJavVicZei
+# Mapa de datos de la pyme — AleJavVicZei
 
 ## Digitalización de una empresa de kebab
 
-  -------------------------------------------------------------------------------
-  Sistema        Dato que genera  Dónde se       Quién accede   ¿Personal?
-                                  guarda                        
-  -------------- ---------------- -------------- -------------- -----------------
-  Datáfono       Importe, fecha,  Sistema del    Encargado y    Sí, si se puede
-                 hora y método de proveedor de   proveedor      relacionar con un
-                 pago             pagos          bancario       cliente
-                                                                identificable
-
-  Caja           Ventas, importes Dispositivo    Encargado y    No, si solo
-  registradora   y movimientos de local          empleados      registra datos de
-                 caja                            autorizados    ventas
-
-  Gestión manual Productos,       Papel (notas   Camareros y    No, salvo que
-  de pedidos     cantidades,      manuscritas)   cocineros      incluya datos
-                 modificaciones y                               identificativos
-                 hora del pedido                                del cliente
-
-  Sensores de    Temperatura de   Memoria del    Encargado y    No
-  temperatura    frigoríficos y   sensor o       empleados      
-                 refrigeradores   dispositivo    autorizados    
-                                  local                         
-
-  Controles de   Temperaturas de  Memoria o      Encargado y    No
-  temperatura de freidoras,       controlador    empleados      
-  maquinaria     plancha y horno  del equipo     autorizados    
-
-  Aplicación de  Pedidos, ventas, Base de datos  Encargado,     Depende de los
-  gestión        productos y      local o en la  camareros y    datos registrados
-  (propuesta)    estados de       nube           cocina, según  
-                 preparación                     permisos       
-  -------------------------------------------------------------------------------
+| Sistema | Dato que genera | Dónde se guarda | Quién accede | ¿Personal? |
+|---|---|---|---|---|
+| Datáfono | Importe, fecha, hora y método de pago. | Sistema del proveedor de pagos. | Encargado y proveedor bancario. | Sí, si se puede relacionar con un cliente identificable. |
+| Caja registradora | Ventas, importes y movimientos de caja. | Dispositivo local. | Encargado y empleados autorizados. | No, si solo registra datos de ventas. |
+| Gestión manual de pedidos | Productos, cantidades, modificaciones y hora del pedido. | Papel (notas manuscritas). | Camareros y cocineros. | No, salvo que incluya datos identificativos del cliente. |
+| Sensores de temperatura | Temperatura de frigoríficos y refrigeradores. | Memoria del sensor o dispositivo local. | Encargado y empleados autorizados. | No. |
+| Controles de temperatura de maquinaria | Temperaturas de freidoras, plancha y horno. | Memoria o controlador del equipo. | Encargado y empleados autorizados. | No. |
+| Aplicación de gestión (propuesta) | Pedidos, ventas, productos y estados de preparación. | Base de datos local o en la nube. | Encargado, camareros y cocina, según permisos. | Depende de los datos registrados. |
 
