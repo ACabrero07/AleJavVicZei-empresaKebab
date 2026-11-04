@@ -2,7 +2,7 @@
 
 ## Digitalización de una empresa de kebab
 
-A partir del mapa de datos de la pyme, se han seleccionado los tres riesgos más importantes y una medida para reducir cada uno.
+A partir del mapa de datos de la pyme, hemos seleccionado los tres riesgos más importantes y una medida para reducir cada uno.
 
 | Dato | Riesgo | Medida |
 |---|---|---|
