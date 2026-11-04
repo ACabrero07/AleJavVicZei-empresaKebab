@@ -9,5 +9,4 @@
 | Gestión manual de pedidos | Productos, cantidades, modificaciones y hora del pedido. | Papel (notas manuscritas). | Camareros y cocineros. | No, salvo que incluya datos identificativos del cliente. |
 | Sensores de temperatura | Temperatura de frigoríficos y refrigeradores. | Memoria del sensor o dispositivo local. | Encargado y empleados autorizados. | No. |
 | Controles de temperatura de maquinaria | Temperaturas de freidoras, plancha y horno. | Memoria o controlador del equipo. | Encargado y empleados autorizados. | No. |
-| Aplicación de gestión (propuesta) | Pedidos, ventas, productos y estados de preparación. | Base de datos local o en la nube. | Encargado, camareros y cocina, según permisos. | Depende de los datos registrados. |
 
