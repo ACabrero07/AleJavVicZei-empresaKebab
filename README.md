@@ -144,8 +144,8 @@ importantes y una medida para reducir cada uno.
 
 - [Arquitectura IT/OT](ArquitecturasITOT.md)
 - [Análisis de puntos de dolor](Pain_Point.md)
-- [Mapa de datos](Mapa_Datos.md)
-- [Riesgos y ciberseguridad](Ciberseguridad.md)
+- [Mapa de datos](DOCS/MapaDeDatos.md)
+- [Riesgos y ciberseguridad](DOCS/CiberseguridadDeLaPyme.md)
 - [README](README.md)
 - [DIARIO](Diario.md)
 - [THD](DOCS/THD)
