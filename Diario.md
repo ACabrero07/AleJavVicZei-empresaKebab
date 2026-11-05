@@ -31,6 +31,7 @@
 **miércoles 21 de octubre de 2026**
 
 * El encargado del Diario no asisio a clase, que lo rellene otro
+//THD, Iaas, PaaS, SaaS, etc
 
 ### Semana 7
 **miércoles 28 de octubre de 2026**
@@ -39,3 +40,11 @@
 * Revisión del trabajo realizado hasta ahora.
 * Teria
 * Tabla comparativa THD
+
+### Semana 8
+**miércoles 4 de noviembre de 2026**
+
+* Teoria de Ciberseguridad.
+* Revisón del tablero.
+* Exposición Sprint Review.
+* Reparto de últimas tareas antes de la entrega final.
